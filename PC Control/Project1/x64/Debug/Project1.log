@@ -1,0 +1,43 @@
+﻿Build started 2016/6/8 14:23:29.
+     1>Project "G:\smart car\newCsocket\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         G:\VS\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+     1>g:\smart car\newcsocket\project1\project1\csocket.h(182): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+     1>g:\smart car\newcsocket\project1\project1\csocket.h(185): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+     1>G:\openCV\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>G:\openCV\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>G:\openCV\opencv\build\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>Source.cpp(79): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(87): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(93): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(101): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(107): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(109): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(111): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(113): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(115): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(121): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(123): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(125): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(127): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(129): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(135): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(141): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(151): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(157): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(159): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(161): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+     1>Source.cpp(236): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Source.cpp(239): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Source.cpp(347): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Source.cpp(347): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>g:\smart car\newcsocket\project1\project1\csocket.h(126): warning C4715: 'CSocket::char2int' : not all control paths return a value
+       Link:
+         G:\VS\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\smart car\newCsocket\Project1\x64\Debug\Project1.exe" /INCREMENTAL /NOLOGO opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\smart car\newCsocket\Project1\x64\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\smart car\newCsocket\Project1\x64\Debug\Project1.lib" /MACHINE:X64 x64\Debug\Source.obj
+         Project1.vcxproj -> G:\smart car\newCsocket\Project1\x64\Debug\Project1.exe
+     1>Done Building Project "G:\smart car\newCsocket\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.80

@@ -1,0 +1,23 @@
+﻿  Source.cpp
+d:\workspace\智能系统设计\project1\project1\source.cpp(104): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(112): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(118): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(126): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(132): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(134): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(136): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(138): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(140): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(146): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(148): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(150): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(152): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(154): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(160): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(166): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(176): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(182): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(184): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\source.cpp(186): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\workspace\智能系统设计\project1\project1\csocket.h(126): warning C4715: “CSocket::char2int”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> D:\Workspace\智能系统设计\Project1\Project1\Debug\Project1.exe
